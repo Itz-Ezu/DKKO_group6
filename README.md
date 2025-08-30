@@ -1,5 +1,11 @@
-"
-The dataset has some issues converting it into Pandas dataframe as it contains TAB/ spaces in the data 
+# DKKO Group 6
 
-Solution Reference: https://stackoverflow.com/questions/62653514/open-an-arff-file-with-scipy-io/66939746#66939746
-"
+- Maria
+- Pavel
+- Eetu
+- Liu (Suphitcha)
+
+## Our group assignemnts 
+
+- [Data preprocessing]([preprocessing/data_preprocessing.ipynb)
+- [kNN classifier](knn_classifier/classifierHW.ipynb)
