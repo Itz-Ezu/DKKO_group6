@@ -7,5 +7,5 @@
 
 ## Our group assignemnts 
 
-- [Data preprocessing]([preprocessing/data_preprocessing.ipynb)
+- [Data preprocessing](preprocessing/data_preprocessing.ipynb)
 - [kNN classifier](knn_classifier/classifierHW.ipynb)
